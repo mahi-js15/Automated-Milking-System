@@ -1,1 +1,1 @@
-# Automated-Milking-System
+# Automated-Gate Control System
